@@ -1,0 +1,9 @@
+.idea/
+.vagrant/
+
+vault.pwd
+*.retry
+.env/
+cdk.out/
+*.egg-info/
+__pycache__/
